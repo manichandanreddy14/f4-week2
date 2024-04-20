@@ -1,0 +1,21 @@
+#box{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    margin: 50px;
+    gap:10px;
+    #bt{
+        width:100px;
+        padding: 5px;
+        background-color: black;
+        color: white;
+    }
+    #input{
+        padding: 10px;
+    }
+    #label{
+        font-size: larger;
+    }
+        
+    }
+   
